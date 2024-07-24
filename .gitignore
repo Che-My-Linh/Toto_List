@@ -1,0 +1,65 @@
+# Visual Studio
+.vs/
+.vscode/
+
+# Build results
+[Bb]in/
+[Oo]bj/
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Auto-generated files
+*_i.c
+*_p.c
+*_h.h
+*.ilk
+*.meta
+*.obj
+*.pch
+*.pdb
+*.ipch
+*.tlog
+*.log
+*.vspscc
+*.vssscc
+*.tmp
+*.tmp_proj
+*.log
+*.vspscc
+.builds
+*.pidb
+*.svclog
+*.scc
+
+# Mac files
+.DS_Store
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# Azure DevOps
+.tf
+
+# Certificate
+*.snk
+
+# IIS
+.vs/
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# StyleCop
+StyleCopReport.xml
